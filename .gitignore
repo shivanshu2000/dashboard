@@ -4,14 +4,15 @@
 node_modules
 /.pnp
 .pnp.js
+data.json
+constants.js
 
 # testing
 /coverage
 
 # production
 client/build
-data.json
-constants.js
+
 
 # misc
 .DS_Store
